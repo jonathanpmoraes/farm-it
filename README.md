@@ -349,7 +349,7 @@ O Farm-IT promove:
 Todas as funcionalidades foram implementadas e testadas!
 
 **Versão:** 1.0.0  
-**Data:** Janeiro 2025  
+**Data:** Outubro 2025  
 **Status:** Produção
 
 </div>
