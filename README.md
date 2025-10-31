@@ -111,7 +111,7 @@ O **Farm-IT** é uma solução completa desenvolvida para ajudar pequenos produt
 
 ```bash
 # 1. Navegue até o diretório
-cd /Users/jonathan.moraes.gft/dev/nu/farm-it
+cd /farm-it
 
 # 2. Instale as dependências
 npm run install-all
